@@ -1,0 +1,94 @@
+#include<cstdio>
+#include <bits/stdc++.h>
+using namespace std;
+int main()
+{
+    long int a=10,b=20;
+    
+    if(a>b)
+    {
+
+      cout<<a<<endl;
+
+    }
+    else
+    {
+
+      cout<<b<<endl;
+    }
+
+    
+    return 0;
+}
+
+Keywords
+------------------
+int
+long
+int
+if
+else
+return
+
+Identifiers
+------------------
+a
+10
+b
+20
+a
+b
+a
+b
+0
+
+
+Operators
+------------------
+=
+=
+>
+<<
+<
+<<
+<
+<<
+<
+<<
+<
+
+
+Library
+------------------
+#include
+<cstdio>
+#include
+<bits/stdc++.h>
+using
+namespace
+std
+main
+cout
+endl
+cout
+endl
+
+
+Punctuations
+------------------
+;
+(
+)
+{
+,
+;
+(
+)
+{
+;
+}
+{
+;
+}
+;
+}

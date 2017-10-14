@@ -1,0 +1,17 @@
+#include
+<iostream>
+<bits/stdc++.h>
+<conio.h>
+<string.h>
+<stdio.h>
+<cstdio>
+main
+cin
+cout
+printf
+scanf
+endl
+abs
+using
+namespace
+std

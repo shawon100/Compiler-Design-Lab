@@ -1,0 +1,23 @@
+#include<cstdio>
+#include <bits/stdc++.h>
+using namespace std;
+int main()
+{
+    long int a=10,b=20;
+    
+    if(a>b)
+    {
+
+      cout<<a<<endl;
+
+    }
+    else
+    {
+
+      cout<<b<<endl;
+    }
+
+    
+    return 0;
+}
+
